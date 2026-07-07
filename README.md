@@ -1,8 +1,7 @@
 *This project has been created as part of the 42 curriculum by asato, chagen.*
 
 # cub3D
-<img width="400" height="192" alt="cub3D" src="https://github.com/user-attachments/assets/cf63f6ca-debe-413b-93e7-c94fd1ff5a72" />
-
+<img width="400" height="192" alt="cub3D_forth_and_back" src="https://github.com/user-attachments/assets/c20fd147-2e45-45e7-9f87-b75f7d7e3b0c" />
 
 A simple 3D raycasting engine in C using MiniLibX that renders a navigable maze from a 2D map.
 
