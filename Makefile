@@ -6,7 +6,7 @@
 #    By: asato <asato@student.42berlin.de>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2026/05/06 15:06:45 by chagen            #+#    #+#              #
-#    Updated: 2026/07/02 16:22:56 by asato            ###   ########.fr        #
+#    Updated: 2026/07/02 18:16:50 by chagen           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -43,8 +43,8 @@ SRC			=	main.c \
 				3_raycast/3_draw.c \
 				3_raycast/4_put_pixel.c \
 				3_raycast/5_put_wall.c \
-				3_raycast/7_minimap.c \
-				3_raycast/8_minimap_utils.c \
+				3_raycast/6_minimap.c \
+				3_raycast/7_minimap_utils.c \
 				4_cleanup/cleanup.c \
 				4_cleanup/error.c \
 				4_cleanup/mlx_cleanup.c \
