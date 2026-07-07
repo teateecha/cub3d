@@ -10,6 +10,8 @@ A simple 3D raycasting engine in C using MiniLibX that renders a navigable maze 
 
 cub3D is a 42 graphics project inspired by *Wolfenstein 3D*.
 It parses a `.cub` file, validates the map, and renders a real-time first-person view using raycasting.
+<img width="400" height="192" alt="Screencast from 07-07-2026 06-34-00 PM" src="https://github.com/user-attachments/assets/9d2d8680-a3d1-4cdf-ab64-9f9448aa2adc" />
+
 
 ---
 
